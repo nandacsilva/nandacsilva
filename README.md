@@ -19,7 +19,7 @@ insights and scalable systems. My work sits at the intersection of data, AI, and
 When I'm not working with data, I enjoy reading, going to the gym,kayaking,fishing,and playing my ukulele.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](...)
+### [🏆 Check Out My Full Portfolio Website](https://nandacsilva.github.io))
       
 ## 🔭 What I'm Currently Working On 
 
